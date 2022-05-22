@@ -6,7 +6,7 @@ Contributors: Makayla Soh, Tarani Srikanth, Dani Lopez
 
 Description:
 
-Each file is an interpretor using different methods and for slightly different versions of JILI. Specific language descriptions are described at the top of the file.
+Each file is an interpretor using different methods and for slightly different versions of JILI. Specific language descriptions are described at the top of the file. To understand the use of each JILI version, look at the test cases (examples) at the bottom of each file. The top-interp function both parses and interps the input JILI program.
 
 PARSING
 
