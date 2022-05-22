@@ -8,7 +8,7 @@ Description: Interpreter that parses and then interprets. Uses an environment to
 The Language:
 Exp = Num
     |id
-    |Stringa
+    |String
     |{if Expr Expr Expr}
     |{var {[id = Expr] ...} in Expr}
     |{id ... => Expr}  
