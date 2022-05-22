@@ -2,6 +2,8 @@ Language Interpretor
 
 Purpose: Create an interpretor that parses and evaluates a program in a language called JILI. JILI is a simple, arithmetic language defined by the professors in CSC 430 (programming languages) at Cal Poly.
 
+Contributors: Makayla Soh, Tarani Srikanth, Dani Lopez
+
 Description:
 
 Each file is an interpretor using different methods and for slightly different versions of JILI. Specific language descriptions are described at the top of the file.
